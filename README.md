@@ -1,6 +1,6 @@
-##My neo vim config
+###My neo vim config
 
-uses :
+it uses :
 1. telescope
 2. nvim-lsp
 3. treesitter
