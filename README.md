@@ -1,4 +1,4 @@
-###My neo vim config
+# My neo vim config
 
 it uses :
 1. telescope
