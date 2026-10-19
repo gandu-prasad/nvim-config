@@ -21,4 +21,7 @@ return require('packer').startup(function(use)
     }
     use 'neovim/nvim-lspconfig'
     use 'nvim-lualine/lualine.nvim'
+    use {
+    'windwp/nvim-autopairs',
+    }
 end)
